@@ -1,5 +1,5 @@
 
-![](md_logo.png)
+![](md_static/md_logo.png)
 
 # Gra 2D w stylu indie
 
@@ -25,7 +25,7 @@ W drugiej części dodamy do tego losowy generator map, zapisywanie/wczytywanie 
 
 ## Biblioteki
 ### Amethyst
-<a href="https://amethyst.rs/" rel="yolo">![](amethyst_logo.png)<a/>
+<a href="https://amethyst.rs/" rel="yolo">![](md_static/amethyst_logo.png)<a/>
 Zdecydowałem się korzystać z silnika Amethyst, ze względu na super dokumentację.
 
 [Amethyst documentation](https://book.amethyst.rs/book/stable/)
