@@ -4,7 +4,7 @@
 # Gra 2D w stylu indie
 
 ## Autorzy
-Kamil Bugała (gr 9, @agluszak na githubie)
+Kamil Bugała (gr 9, @Emilo77 na githubie)
 
 ## Opis
 
