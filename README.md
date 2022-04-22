@@ -1,27 +1,32 @@
-# Frobnicator
+
+![](md_static/md_logo.png)
+
+# Gra 2D w stylu indie
 
 ## Autorzy
-- Andrzej Głuszak (gr 9, @agluszak na githubie)
-- Linus Torvalds (Uniwersytet Helsiński, @torvalds na githubie)
+Kamil Bugała (gr 9, @Emilo77 na githubie)
 
 ## Opis
-Od zawsze chcieliśmy napisać grę komputerową.
-Frobnicator będzie to gra platformowa, w której chodzi o to, żeby...
 
-Z grubsza będziemy wzorować się na [tym tutorialu](https://dev.to/sbelzile/rust-platformer-part-1-bevy-and-ecs-2pci).
+Bardzo chętnie stworzę gierkę w stylu indie. 
+Zależałoby mi, aby gra była jak najbardziej zręcznościowa i dynamiczna.
+
 
 ## Funkcjonalność
 - Generowanie map
-- Strzelanie
-- AI dla wrogów (bardziej rozbudowane niż w tutorialu)
+- Dashowanie i jak najwięcej efektów ruchu
+- Stworzenie AI przeciwników
 - Możliwość zapisywania i wczytywania stanu gry
-- Punktacja
 
 ## Propozycja podziału na części
-W pierwszej części stworzymy grę opartą na tutorialu (z lepszym AI) i jedną zahardcodowaną planszą.
+W pierwszej części zajmę się generowaniem planszy i ogólnym ruchem bohatera.
 
 W drugiej części dodamy do tego losowy generator map, zapisywanie/wczytywanie stanu gry oraz system punktacji.
 
 ## Biblioteki
-- Bevy
-- może coś do serializacji danych? (czy mógłby Pan coś polecić?)
+### Amethyst
+<a href="https://amethyst.rs/" rel="yolo">![](md_static/amethyst_logo.png)<a/>
+Zdecydowałem się korzystać z silnika Amethyst, ze względu na super dokumentację.
+
+[Amethyst documentation](https://book.amethyst.rs/book/stable/)
+  
